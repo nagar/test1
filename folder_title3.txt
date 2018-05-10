@@ -1,2 +1,0 @@
-endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	responseCode
-1525847543.815	104	0	132	78	isSuccessful	128
