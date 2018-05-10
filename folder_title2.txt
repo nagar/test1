@@ -10,4 +10,12 @@ test1 ${n}
 1525935047.074	65	0	104	481	isSuccessful	0
 1525935054.714	7640	0	162	76	isSuccessful	0
 1525935054.816	100	0	104	481	isSuccessful	0
-test2 ${n}
+test2 ${n}endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	responseCode
+1525941539.450	186	0	132	78	isSuccessful	128
+1525941539.989	137	0	104	524	isSuccessful	0
+1525941540.053	63	0	104	612	isSuccessful	0
+1525941540.120	66	0	122	536	isSuccessful	0
+1525941540.190	69	0	104	481	isSuccessful	0
+1525941549.071	8866	0	162	76	isSuccessful	0
+1525941549.156	81	0	104	481	isSuccessful	0
+endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	responseCode
