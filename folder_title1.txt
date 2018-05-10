@@ -1,1 +1,0 @@
-endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	responseCode
